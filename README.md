@@ -1,4 +1,4 @@
-
+![Arcticn's GitHub stats](https://readmestats.999857.xyz/api?username=Arcticn&show_icons=true&theme=dracula)
 
 <!--
 **Arcticn/Arcticn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
