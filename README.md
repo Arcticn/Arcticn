@@ -1,4 +1,4 @@
-[![Arcticn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arcticn)](https://github.com/Arcticn/github-readme-stats)
+
 
 <!--
 **Arcticn/Arcticn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
